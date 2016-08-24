@@ -3,6 +3,7 @@
 Very basic application that illustrates binding in AngularJS
 
 ### Deployment
+http://tomgdow.github.io/angularThirtyMinutes/
 
 ### Notes
 
